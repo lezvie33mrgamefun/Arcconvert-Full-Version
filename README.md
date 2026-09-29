@@ -240,4 +240,4 @@ This repository serves as the official landing page for ArcConvert. The software
 **Get the most recent version of ArcConvert today!**
 
 ---
-**Last updated:** 2026-09-29 10:20:37 UTC
+**Last updated:** 2026-09-29 16:44:37 UTC
